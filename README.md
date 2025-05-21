@@ -80,13 +80,16 @@ console.log(rahul.getGreeting());
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Framework-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=spring&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=3498db)
 
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=e74c3c)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=e74c3c)
 ![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=e74c3c)
 ![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=e74c3c)
+![](https://img.shields.io/badge/Database-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=white&color=e74c3c)
 
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=9b59b6)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=9b59b6)
