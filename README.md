@@ -12,9 +12,9 @@
 
 ## <div align="center">Full-Stack Software Engineer | React Native Specialist | Clean Architecture Enthusiast</div>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=RahulNagaraj&label=VISITORS&labelColor=%23007EC6&countColor=%23F05237" alt="Visitor Badge">
-</p>
+</p> 
 
 ---
 
@@ -62,41 +62,48 @@ console.log(rahul.getGreeting());
 
 ---
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNagaraj&layout=compact&theme=tokyonight" alt="Top Languages">
 </div>
 
----
+--- -->
 
-## 🧠 My Coding Philosophy
+## 🔧 Technologies & Tools
 
-I believe in writing code that tells a story. Every class, function, and variable should have a clear purpose and fit elegantly into the larger narrative of the application. Here's how I approach software development:
+<div align="center">
 
-### 🏗️ Object-Oriented Excellence
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 
-```python
-# My approach to building software systems
-class DesignPhilosophy:
-    def __init__(self):
-        self.principles = {
-            "Single Responsibility": "Each class has one job and does it well",
-            "Open/Closed": "Open for extension, closed for modification",
-            "Liskov Substitution": "Derived classes must be substitutable for base classes",
-            "Interface Segregation": "Many specific interfaces over one general interface",
-            "Dependency Inversion": "Depend on abstractions, not concretions"
-        }
-        
-    def apply_solid_principles(self, codebase):
-        """
-        Transform messy code into a maintainable architecture
-        by applying SOLID principles systematically.
-        """
-        for principle, definition in self.principles.items():
-            codebase.refactor(according_to=principle)
-            codebase.document(principle_applied=principle)
-            
-        return codebase.with_improved_maintainability()
-```
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=react&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=spring&logoColor=white&color=3498db)
+
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=e74c3c)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=e74c3c)
+![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=e74c3c)
+![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=e74c3c)
+
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=9b59b6)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=9b59b6)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=9b59b6)
+
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=f39c12)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=f39c12)
+![](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=f39c12)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahulNagaraj&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNagaraj&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 ### 🚀 Performance Optimization Specialist
 
@@ -138,8 +145,7 @@ An educational repository demonstrating various design patterns implemented in T
 I'm passionate about creating elegant, maintainable code and always looking to collaborate on interesting projects. Feel free to reach out!
 
 <div align="center">
-  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/)
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-nagarajmv)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulNagaraj)
 
