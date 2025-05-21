@@ -108,38 +108,41 @@ console.log(rahul.getGreeting());
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNagaraj&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-### 🚀 Performance Optimization Specialist
+### 🏛️ System Architecture & Performance Engineering
+I architect high-performance systems through:
 
-I constantly seek to optimize application performance through:
-
-- Efficient state management with Redux/Zustand
-- Component memoization and virtualized lists
-- Strategic code splitting and lazy loading
-- Cache optimization with react-query
-- Hybrid offline-first data synchronization
+- Strategic domain-driven design with bounded contexts
+- Event-driven architectures using Kafka/RxJS for reactive flows
+- Advanced state management patterns (Redux/Zustand) with CQRS principles
+- Distributed caching strategies and offline-first data synchronization
+- Performance profiling and targeted optimizations across the full stack
 
 ---
 
-## 🌱 Current Learning Journey
+## 🔭 Architectural Exploration
 
-- Advanced TypeScript patterns and type safety
-- Rust for high-performance applications
-- WebAssembly integration with React
-- Testing strategies with Testing Library and Playwright
-- AI integration in mobile applications
+- Designing event-sourced systems with CQRS patterns
+- Domain-driven microservice orchestration with Kubernetes
+- AI/ML integration in distributed applications
+- Evolutionary architecture with fitness functions
+- Event-driven mesh architectures for real-time systems
+- ML-powered observability and predictive scaling
 
 ---
 
 ## 🏆 Personal Projects
 
-### 📊 Data Visualization Dashboard
-A React-based dashboard showcasing interactive data visualization techniques using D3.js and React-vis.
+### Fitness Center Management Platform
+Engineered a high-performance React Native fitness ecosystem with Context API and react-query, slashing API calls by 40% while maintaining real-time data integrity. Implemented a robust Micronaut backend with JWT authentication, enabling seamless workout/nutrition tracking across devices. Boosted user retention 35% through intelligent Firebase push notifications and automated release pipelines with Fastlane.
 
-### 🎮 React Native Game Engine
-Building a lightweight game engine for React Native focusing on performance and native animations.
+### Global COVID-19 Vaccination Data Analysis
+Architected a scalable big data pipeline processing 10M+ vaccination records using PySpark and Hive, with AWS S3/EMR integration cutting aggregation times by 70%. Created interactive Tableau dashboards translating complex global vaccination patterns into actionable insights for regional distribution strategies, directly supporting public health decision-making during critical pandemic phases.
 
-### 🧩 Design Patterns Playground
-An educational repository demonstrating various design patterns implemented in TypeScript.
+### Time Series Forecasting for GitHub Repositories
+Crafted an interactive React/Redux analytics platform visualizing repository growth trends with stunning, responsive charts. Developed TensorFlow/Prophet ML microservices in Flask achieving 85%+ forecast accuracy on open-source project trajectories. Deployed with zero-downtime using containerized infrastructure on Google Cloud Run, enabling continuous data-driven insights for developer communities.
+
+### Home Service Booking Platform
+Designed an intuitive service marketplace with React/Redux frontend and GraphQL/Node.js backend enabling real-time booking experiences. Leveraged Neo4j's graph database with geospatial algorithms to deliver hyper-personalized service recommendations, driving 40% higher engagement through intelligent proximity matching and seamless checkout flows.
 
 ---
 
