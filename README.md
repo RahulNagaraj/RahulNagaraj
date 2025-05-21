@@ -12,11 +12,11 @@
 
 ## <div align="center">Full-Stack Software Engineer | React Native Specialist | Clean Architecture Enthusiast</div>
 
-<!--<p align="center">
+<p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=RahulNagaraj&label=VISITORS&labelColor=%23007EC6&countColor=%23F05237" alt="Visitor Badge">
 </p> 
 
----
+<!-- ---
 
 ## 💻 Tech Arsenal
 
@@ -60,13 +60,13 @@ const rahul = new Developer();
 console.log(rahul.getGreeting());
 ```
 
----
+--- -->
 
-<!--<div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNagaraj&layout=compact&theme=tokyonight" alt="Top Languages">
 </div>
 
---- -->
+<!-- --- -->
 
 ## 🔧 Technologies & Tools
 
