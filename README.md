@@ -140,19 +140,6 @@ An educational repository demonstrating various design patterns implemented in T
 
 ---
 
-## 📫 Let's Connect!
-
-I'm passionate about creating elegant, maintainable code and always looking to collaborate on interesting projects. Feel free to reach out!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-nagarajmv)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulNagaraj)
-
-</div>
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
